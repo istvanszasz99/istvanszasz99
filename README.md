@@ -2,7 +2,8 @@
 
 **I'm István Szász. 24 years old Developer from Hungary. I am currently a graduate student of Computer Engineering at the University of Óbuda. Through my university years I studied lot about programming languages and frameworks. I am also expanding my IT knowledge outside the university with online courses. I wrote my university thesis with Unreal Engine 5. In my free time I usually learn about programming, Notebook & PC servicing, hang out with my friends, doing free time activities, playing video games, watching movies or TV series.**
 <p align="left">
-<h3 align="left">Contact:</h3>
+
+### 📱 Contact:
 <a href="https://linkedin.com/in/istvanszasz99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="istvanszasz99" height="30" width="40" /></a>
 </p>
 
