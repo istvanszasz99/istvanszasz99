@@ -15,7 +15,8 @@ You can explore my other expertise in the Skills section.
 In my spare time, I’m passionate about:
 - ⚙️ Learning 3D & Web Development
 - 🏎️ Following Formula 1 & WEC
-- 🍳 Hobby cooking and playing video games
+- 🍳 Hobby cooking
+- 🎮 Playing Video Games
 
 <p align="left">
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66b1d583d9896b3d1411b835?variant=dark" alt="roadmap.sh"/></a>
