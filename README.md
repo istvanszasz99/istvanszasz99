@@ -1,10 +1,10 @@
-# 🤵 Istvan Szasz
+# 🤵 Istvan Zoltan Szasz
 
-I’m a 25 years old Junior Full-Stack Developer from Hungary. Currently graduating as Computer Science Engineer at Óbuda University, with a strong focus on React and Full-Stack Development. 
+I’m a 25 years old Junior Front-End Developer from Hungary. Currently graduated as a Computer Science Engineer at Óbuda University, with a strong focus on React and Front-End Development.
 
 3+ years of experience in software engineering. Experienced in developing and deploying web applications, utilizing a variety of programming languages and frameworks.
 
-I am seeking a Full Stack Developer role in a dynamic and collaborative team where I can learn and grow while contributing to the development of high-quality web applications.
+I am seeking a Web Developer role in a dynamic and collaborative team where I can learn and grow while contributing to the development of high-quality web applications.
 
 In my spare time, I actively learning web development from courses and books to expand my knowledge.
 
