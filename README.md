@@ -1,6 +1,6 @@
 # 🤵 Istvan Zoltan Szasz
 
-I’m a 25 years old Junior Front-End Developer from Hungary. Currently graduated as a Computer Science Engineer at Óbuda University, with a strong focus on React and Front-End Development.
+I’m a 25 years old Software Developer from Hungary. Currently graduated as a Computer Science Engineer at Óbuda University, with a strong focus on React and Front-End Development.
 
 3+ years of experience in software engineering. Experienced in developing and deploying web applications, utilizing a variety of programming languages and frameworks.
 
