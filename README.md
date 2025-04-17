@@ -23,4 +23,4 @@ In my spare time, I’m passionate about:
 - 🪙 Cryptocurrency Trading
 
 <p align="left">
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66b1d583d9896b3d1411b835?variant=dark&roadmaps=frontend%2Creact%2Creact-native%2Cgame-developer" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66b1d583d9896b3d1411b835?variant=dark&roadmaps=full-stack%2Cbackend%2Cfrontend%2Cgame-developer" alt="roadmap.sh"/></a>
