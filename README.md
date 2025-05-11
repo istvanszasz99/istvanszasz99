@@ -22,5 +22,7 @@ In my spare time, I’m passionate about:
 - 🎮 Playing Video Games
 - 🪙 Cryptocurrency Trading
 
+Digital Credentials: https://www.credly.com/users/istvanszasz99
+
 <p align="left">
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66b1d583d9896b3d1411b835?variant=dark&roadmaps=full-stack%2Cbackend%2Cfrontend%2Cgame-developer" alt="roadmap.sh"/></a>
