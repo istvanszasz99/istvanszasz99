@@ -1,18 +1,18 @@
 # 🤵 Istvan Zoltan Szasz
 
-I’m a 25 years old Full-Stack Developer from Hungary. Currently graduated as a Computer Science Engineer at Óbuda University. I built a solid foundation in both Front-End and Back-End development.
+I'm a 25 years old Full-Stack Developer from Hungary. Recently graduated with a Bachelor's degree as Computer Science Engineer at Óbuda University. I built a solid foundation in both Front-End and Back-End development.
 
-5+ years of experience in web development. Experienced in building and maintaining web applications using various technologies.
-
-I am seeking a Web Developer role in a dynamic and collaborative team where I can learn and grow while contributing to the development of high-quality web applications.
+5+ years of experience in web development. Experienced in building and maintaining robust web applications using wide range of modern technologies.
 
 In my spare time, I actively learning web development from courses and books to expand my knowledge.
 
-Here’s a bit more about my experience and skills:
-- ⚛️ Front-end: React.Js, Vite.JS, Next.Js, Redux, JavaScript, TypeScript, Tailwind CSS
-- 🌐 Back-end: Express.js, Django, Laravel, SQL, API, MVC, MVT
-- 🛠️ Tools: Git, VS Code, Figma, Android Studio, Microsoft Office
-- 🌱 3D Development: Unreal Engine, Twinmotion, Blender
+Here’s a bit more about my experience and technological skills:
+- ⚛️ Front-end: React.js, Vite.js, Next.js, Redux.js, TypeScript, Tailwind CSS, Bootstrap, Next.js, SEO
+- 🌐 Back-end: Express.js, Django, Laravel, SQL, NoSQL, GraphQL, MongoDB, REST API's, Docker, Kubernetes, OpenShift, DevOps, CI/CD
+- 💻 Programming Languages: JavaScript, Python, PHP, C#, C++
+- 🌱 3D Development: Unreal Engine, Twinmotion
+- 📱 Android Studio, Expo, React Native
+- 🛠️ Tools: Git, GitHub Copilot, VS Code, Figma, Microsoft Office
 - 🔧 Additional Interests: Notebook/PC/Mobile repair
 
 In my spare time, I’m passionate about:
@@ -21,6 +21,14 @@ In my spare time, I’m passionate about:
 - 🍳 Hobby Cooking
 - 🎮 Playing Video Games
 - 🪙 Cryptocurrency Trading
+
+Certificates:
+- Meta Front-End Developer Professional Certificate
+- Meta Back-End Developer Professional Certificate
+- Meta React Native Specialization
+- IBM Back-End JavaScript Developer Professional Certificate
+- (In Progress) IBM Front-End JavaScript Developer Professional Certificate
+- (In Progress) Epic Games Game Design Professional Certificate
 
 Digital Credentials: https://www.credly.com/users/istvanszasz99
 
