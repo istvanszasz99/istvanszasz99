@@ -8,7 +8,7 @@ In my spare time, I actively learning web development from courses and books to 
 
 Here’s a bit more about my experience and technological skills:
 - ⚛️ Front-end: React.js, Vite.js, Next.js, Redux.js, TypeScript, Tailwind CSS, Bootstrap, Next.js, SEO
-- 🌐 Back-end: Express.js, Django, Laravel, SQL, NoSQL, GraphQL, MongoDB, REST API's, Docker, Kubernetes, OpenShift, DevOps, CI/CD
+- 🌐 Back-end: Express.js, Django, Laravel, SQL, NoSQL, GraphQL, MongoDB, REST API's, Docker, Kubernetes, OpenShift, DevOps, CI/CD, Payload CMS, Azure
 - 💻 Programming Languages: JavaScript, Python, PHP, C#, C++
 - 🌱 3D Development: Unreal Engine, Twinmotion
 - 📱 Android Studio, Expo, React Native
@@ -23,11 +23,10 @@ In my spare time, I’m passionate about:
 - 🪙 Cryptocurrency Trading
 
 Certificates:
-- Meta Front-End Developer Professional Certificate
-- Meta Back-End Developer Professional Certificate
+- Meta Full-Stack Developer Professional Certificate
 - Meta React Native Specialization
-- IBM Back-End JavaScript Developer Professional Certificate
-- (In Progress) IBM Front-End JavaScript Developer Professional Certificate
+- IBM Full-Stack JavaScript Developer Professional Certificate
+- Microsoft Full-Stack Developer Professional Certificate
 - (In Progress) Epic Games Game Design Professional Certificate
 
 Digital Credentials: https://www.credly.com/users/istvanszasz99
