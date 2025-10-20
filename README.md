@@ -1,6 +1,6 @@
 # 🤵 Istvan Zoltan Szasz
 
-I'm a 25 years old Full-Stack Developer from Hungary. Recently graduated with a Bachelor's degree as Computer Science Engineer at Óbuda University. I built a solid foundation in both Front-End and Back-End development.
+I'm a 26 years old Full-Stack Developer from Hungary. Graduated with a Bachelor's degree as Computer Science Engineer at Óbuda University. I built a solid foundation in both Front-End and Back-End development.
 
 5+ years of experience in web development. Experienced in building and maintaining robust web applications using wide range of modern technologies.
 
@@ -11,7 +11,7 @@ Here’s a bit more about my experience and technological skills:
 - 🌐 Back-end: Express.js, Django, Laravel, SQL, NoSQL, GraphQL, MongoDB, REST API's, Docker, Kubernetes, OpenShift, DevOps, CI/CD, Payload CMS, Azure
 - 💻 Programming Languages: JavaScript, Python, PHP, C#, C++
 - 🌱 3D Development: Unreal Engine, Twinmotion
-- 📱 Android Studio, Expo, React Native
+- 📱 Mobile Development: Android Studio, Expo, React Native
 - 🛠️ Tools: Git, GitHub Copilot, VS Code, Figma, Microsoft Office
 - 🔧 Additional Interests: Notebook/PC/Mobile repair
 
